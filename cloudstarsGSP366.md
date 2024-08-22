@@ -1,6 +1,6 @@
 # Detect Manufacturing Defects using Visual Inspection AI: Challenge Lab || GSP366
 
-## Solution [here](https://youtu.be/gnRrAbUzMdc)
+## Solution [here](https://youtu.be/fGNyJR_4r1M)
 
 ### Run the following Commands in the Cloud shell
 
